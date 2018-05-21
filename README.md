@@ -2,6 +2,7 @@
 
 <hr>
 #### 先来看看什么样子
+
 ![回到今天.gif](https://upload-images.jianshu.io/upload_images/4472817-b35ecedf5b67969a.gif?imageMogr2/auto-orient/strip)
 
 
@@ -9,13 +10,19 @@
 1. 日期选择
 “看第一预览图”
 2. 日期切换
+
 ![日期选择.gif](https://upload-images.jianshu.io/upload_images/4472817-0aafeaa54126c087.gif?imageMogr2/auto-orient/strip)
 
 3. 月份切换
+
 ![月份选择.gif](https://upload-images.jianshu.io/upload_images/4472817-2e80123fff9195d2.gif?imageMogr2/auto-orient/strip)
+
 4. 回到今天
+
 “看第一预览图”
+
 5. 记录选中
+
 ![选中状态.png](https://upload-images.jianshu.io/upload_images/4472817-7f9bf75deb6c35fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 二.使用
