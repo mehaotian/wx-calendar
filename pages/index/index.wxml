@@ -1,0 +1,15 @@
+
+
+<!-- 
+ * 日历选择组件
+ * 2018-03-04
+ * mehaotian
+ * github ：https://github.com/mehaotian
+ * selected [Arrey] 那些日期被选中
+ * bindselect [function] 日历是否被打开 
+ * bindgetdate [function] 当前选择的日期
+ * is-open [Boolean} 是否开启插入模式
+  -->
+<!-- <view class='other'>我是其他元素</view> -->
+<calendar selected="{{selected}}" bindselect="bindselect" bindgetdate="bindgetdate" />
+<view class='other'>我是其他元素</view>
